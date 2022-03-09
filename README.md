@@ -1,2 +1,5 @@
 # DataEngineering22
-Kursmatterialien zur Vorlesung Data Engineering
+Kursmaterialien zur Vorlesung Data Engineering
+
+## Woche 1
+NN
