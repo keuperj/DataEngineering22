@@ -27,4 +27,4 @@ Kursmaterialien zur Vorlesung Data Engineering
 ### Aufgaben
 * [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_2/Assignment_1.ipynb)
 * [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_2/Assignment_2.ipynb)
-* [Assignment 03:](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_2/Assignment_3.ipynb)
+
