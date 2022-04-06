@@ -29,6 +29,8 @@ Kursmaterialien zur Vorlesung Data Engineering
 * [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_2/Assignment_1.ipynb) --> [solution](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_2/solution_1.ipynb)
 * [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_2/Assignment_2.ipynb) --> [solution](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_2/solution_2a.ipynb)
 
+
+
 ## Woche 3
 ### Vorlesung
 * [GroupBy](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_3/GroupBy.ipynb)
@@ -42,3 +44,10 @@ Kursmaterialien zur Vorlesung Data Engineering
 * [01 - GroupBy Drinks](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_3/Assignment_01_Alcohol_Exercise.ipynb)
 * [02 - GroupBy Occupation](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_3/Assignment_02_Occupation_Exercise.ipynb)
 * [03 - GroupBy Test](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_3/Assignment_03_Regiment_Exercises.ipynb)
+
+## Woche 4
+### Labor
+* [Python Hadoop WordCount](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_4/Lab_Haddop_with_mrjobLib.ipynb)
+
+### Assigments
+*  [MapReduce with Python FuncTools](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_4/Assignment_MapReduce.ipynb)
