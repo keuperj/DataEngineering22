@@ -47,7 +47,16 @@ Kursmaterialien zur Vorlesung Data Engineering
 
 ## Woche 4
 ### Labor
-* [Python Hadoop WordCount](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_4/Lab_Haddop_with_mrjobLib.ipynb)
 
 ### Assigments
 *  [MapReduce with Python FuncTools](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_4/Assignment_MapReduce.ipynb)
+
+
+## Woche 5
+
+### kein Labor -> Feiertag
+
+
+## Woche 6
+### Labor
+* [Python Hadoop WordCount](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_4/Lab_Haddop_with_mrjobLib.ipynb)
