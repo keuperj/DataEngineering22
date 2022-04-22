@@ -59,4 +59,9 @@ Kursmaterialien zur Vorlesung Data Engineering
 
 ## Woche 6
 ### Labor
-* [Python Hadoop WordCount](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_4/Lab_Haddop_with_mrjobLib.ipynb)
+* [Generator Functions in Python](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_6/Lab_generators.ipynb)
+
+### Assignment
+* [Python Hadoop WordCount](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_6/Assignment_1_MRJOBLIB.ipynb)
+* [Hive]((https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_6/Assignment_2_Hive.ipynb)
+
