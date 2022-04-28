@@ -65,7 +65,7 @@ Kursmaterialien zur Vorlesung Data Engineering
 * [Python Hadoop WordCount](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_6/Assignment_1_MRJOBLIB.ipynb)->[solution](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_6/Assignment_1_MRJOBLIB_solution.ipynb)
 
 ## Woche 7
-### Labor
+### Assignment
 * [Hive](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_7/Assignment_Hive.ipynb)
 * [HBase](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_7/Assignment_HBASE.ipynb)
 
