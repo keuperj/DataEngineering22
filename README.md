@@ -69,3 +69,12 @@ Kursmaterialien zur Vorlesung Data Engineering
 * [Hive](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_7/Assignment_Hive.ipynb)
 * [HBase](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_7/Assignment_HBASE.ipynb)
 
+## Woche 8
+### Vorlesung
+* [DASK](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_8/DASK.ipynb)
+
+### Lab
+* [NY Taxy Fare Prediction (non parallel)](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_8/UseCase_NY_Taxi.ipynb)
+
+### Assignment
+* [NY Taxy Fare Prediction with DASK](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_8/Assigment_NY_Taxi_on_Dask.ipynb)
