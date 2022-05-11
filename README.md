@@ -78,3 +78,13 @@ Kursmaterialien zur Vorlesung Data Engineering
 
 ### Assignment
 * [NY Taxi Fare Prediction with DASK](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_8/Assigment_NY_Taxi_on_Dask.ipynb)
+
+## Woche 9
+### Vorlesung
+* [RAPIDS Demo](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_9Lecture_rapids_colab_cuML_demo.ipynb/)
+
+### Lab
+* TBA
+
+### Assignment
+* TAB
