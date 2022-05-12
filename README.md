@@ -81,6 +81,7 @@ Kursmaterialien zur Vorlesung Data Engineering
 
 ## Woche 9
 ### Vorlesung
+* [Numba Demo](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_9/Numba_demo.ipynb)
 * [RAPIDS Demo](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_9/Lecture_rapids_colab_cuML_demo.ipynb)
 
 ### Lab
