@@ -85,7 +85,7 @@ Kursmaterialien zur Vorlesung Data Engineering
 * [RAPIDS Demo](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_9/Lecture_rapids_colab_cuML_demo.ipynb)
 
 ### Lab
-* TBA
+* [cuML Benchmarks](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_9/cuml_benchmarks.ipynb)
 
 ### Assignment
 * TAB
