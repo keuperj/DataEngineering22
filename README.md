@@ -87,5 +87,7 @@ Kursmaterialien zur Vorlesung Data Engineering
 ### Lab
 * [cuML Benchmarks](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_9/cuml_benchmarks.ipynb)
 
+## Woche 10
+### Vorlesung
+
 ### Assignment
-* TAB
