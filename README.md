@@ -92,4 +92,4 @@ Kursmaterialien zur Vorlesung Data Engineering
 * [Data Collection](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_10/Data_Collection.ipynb)
 
 ### Assignment
-* [Assignment: REST + Scraping](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_10/Assingment Data Scraping.ipynb)
+* [REST and Scraping](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_10/Assingment_Data_Scraping.ipynb)
