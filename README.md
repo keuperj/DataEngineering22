@@ -89,5 +89,7 @@ Kursmaterialien zur Vorlesung Data Engineering
 
 ## Woche 10
 ### Vorlesung
+* [Data Collection](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_10/Data_Collection.ipynb)
 
 ### Assignment
+* [REST and Scraping](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_10/Assingment_Data_Scraping.ipynb)
