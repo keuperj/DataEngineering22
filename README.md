@@ -96,5 +96,10 @@ Kursmaterialien zur Vorlesung Data Engineering
 
 ## Woche 11
 ### Lab
+* [Ray Tasks](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_11/Ray-Tasks.ipynb)
+* [Ray Actors](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_11/Ray-Actors.ipynb)
+* [Ray Tune](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_11/Ray-Tune-with-MNIST.ipynb)
 
 ### Assignment
+* [Assignment: Scraping with Ray](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_11/assignment.ipynb)
+*
