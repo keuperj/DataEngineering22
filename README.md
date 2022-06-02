@@ -102,4 +102,4 @@ Kursmaterialien zur Vorlesung Data Engineering
 
 ### Assignment
 * [Assignment: Scraping with Ray](https://colab.research.google.com/github/keuperj/DataEngineering22/blob/main/week_11/assignment.ipynb)
-*
+
